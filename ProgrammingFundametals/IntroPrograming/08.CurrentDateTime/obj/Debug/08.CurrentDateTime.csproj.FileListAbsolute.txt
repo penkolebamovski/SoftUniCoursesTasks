@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\08.CurrentDateTime\bin\Debug\08.CurrentDateTime.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\08.CurrentDateTime\bin\Debug\08.CurrentDateTime.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\08.CurrentDateTime\bin\Debug\08.CurrentDateTime.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\08.CurrentDateTime\obj\Debug\08.CurrentDateTime.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\08.CurrentDateTime\obj\Debug\08.CurrentDateTime.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\08.CurrentDateTime\obj\Debug\08.CurrentDateTime.pdb

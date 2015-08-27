@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\04.PrintFirstLastName\bin\Debug\04.PrintFirstLastName.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\04.PrintFirstLastName\bin\Debug\04.PrintFirstLastName.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\04.PrintFirstLastName\bin\Debug\04.PrintFirstLastName.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\04.PrintFirstLastName\obj\Debug\04.PrintFirstLastName.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\04.PrintFirstLastName\obj\Debug\04.PrintFirstLastName.pdb

@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\02\bin\Debug\02.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\02\obj\Debug\02.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\02\obj\Debug\02.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\02\bin\Debug\02.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\02\bin\Debug\02.pdb

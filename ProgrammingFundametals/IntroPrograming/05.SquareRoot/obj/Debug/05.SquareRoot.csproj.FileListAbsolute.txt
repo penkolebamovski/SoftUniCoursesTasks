@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\05.SquareRoot\bin\Debug\05.SquareRoot.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\05.SquareRoot\bin\Debug\05.SquareRoot.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\05.SquareRoot\bin\Debug\05.SquareRoot.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\05.SquareRoot\obj\Debug\05.SquareRoot.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\05.SquareRoot\obj\Debug\05.SquareRoot.pdb

@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\10.LongSequence\bin\Debug\10.LongSequence.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\10.LongSequence\bin\Debug\10.LongSequence.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\10.LongSequence\bin\Debug\10.LongSequence.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\10.LongSequence\obj\Debug\10.LongSequence.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\10.LongSequence\obj\Debug\10.LongSequence.pdb

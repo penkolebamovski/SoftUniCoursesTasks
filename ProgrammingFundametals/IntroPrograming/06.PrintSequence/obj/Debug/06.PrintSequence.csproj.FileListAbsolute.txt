@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\06.PrintSequence\bin\Debug\06.PrintSequence.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\06.PrintSequence\bin\Debug\06.PrintSequence.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\06.PrintSequence\bin\Debug\06.PrintSequence.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\06.PrintSequence\obj\Debug\06.PrintSequence.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Solution1\06.PrintSequence\obj\Debug\06.PrintSequence.pdb
